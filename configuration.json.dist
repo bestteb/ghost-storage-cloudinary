@@ -4,9 +4,9 @@
         "ghost-storage-cloudinary": {
             "useDatedFolder": false,
             "auth": {
-                "cloud_name": "",
-                "api_key": "",
-                "api_secret": ""
+                "cloud_name": "dja3wgrxs",
+                "api_key": "326498178617136",
+                "api_secret": "2xDS4agbUmYhuxdYy4Xp36J_r0s"
             },
             "upload": {
                 "use_filename": true,
